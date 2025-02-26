@@ -25,12 +25,6 @@ if (userParola === userParolaInvertita){
 
 
 
-/* function greeting (userParola) {
-    return `${userParola} non è una parola palindroma`;
-}
-*/
-
-
 /* const number = getRndInteger (1, 6);
 console.log(number); */
 
